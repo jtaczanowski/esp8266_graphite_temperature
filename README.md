@@ -9,3 +9,4 @@ esp.rssi.JAN -73 1482075500
 ![alt tag](https://raw.githubusercontent.com/jtaczanowski/esp8266_graphite_temperature/master/serial_port.png)
 ![alt tag](https://raw.githubusercontent.com/jtaczanowski/esp8266_graphite_temperature/master/esp8266_graphite_grafana.png)
 
+This code uses additional libraries - DallasTemperature and OneWire. You can download this through library manager from Arduino IDE.
